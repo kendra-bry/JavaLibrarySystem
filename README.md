@@ -4,7 +4,7 @@ This is a console app written in Java that allows patrons to login by using thei
 
 My purpose for writing this software is to gain more familiarity with the Java language and write a functioning program.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=5GWb7er3g1A)
 
 # Development Environment
 
